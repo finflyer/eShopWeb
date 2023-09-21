@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: eshopweb-rg
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: ${{ secrets.AZURE_CREDENTIALS }}
+  SUBSCRIPTION-ID: daae222e-a95a-450f-93f8-4382aca22321
   WEBAPP-NAME: az400-eshopwebappeurope
 
 
